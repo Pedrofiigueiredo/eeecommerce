@@ -1,0 +1,1 @@
+export const categories = [ "Camisa", "Camiseta", "Manga Longa", "Manga Curta", "Moletom", "Corta-vento", "Social"];

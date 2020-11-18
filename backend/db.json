@@ -1,0 +1,141 @@
+{
+  "users": [
+    {
+      "email": "mnopedrodias@gmail.com",
+      "password": "$2a$10$2myKMolZJoH.q.cyXClQXufY1Mc7ETKdSaQQCC6Fgtbe0DCXRBELG",
+      "id": 1
+    },
+    {
+      "email": "admin@example.com",
+      "password": "$2a$10$w8qB40MdYkMs3dgGGf0Pu.xxVOOzWdZ5/Nrkleo3Gqc88PF/OQhOG",
+      "id": 2
+    }
+  ],
+
+  "categories": [
+    "Camisa",
+    "Camiseta",
+    "Manga Longa",
+    "Manga Curta",
+    "Moletom",
+    "Guarda-vento",
+    "Social"
+  ],
+
+  "products": [
+    {
+      "id": 1,
+      "name": "Camisa preta",
+      "image": "https://cdn.awsli.com.br/800x800/271/271965/produto/36358011/886cc2d5ea.jpg",
+      "stock": 10,
+      "price": "29,90",
+      "payment": "Até 10x de R$3,00",
+      "category": [
+        "Camiseta",
+        "Manga Curta",
+        "Masculino"
+      ],
+      "colors": [
+        "1 Cor",
+        "Preto"
+      ],
+      "shortDesc": "Nulla facilisi. Curabitur at lacus ac velit ornare lobortis.",
+      "description": "Cras sagittis. Praesent nec nisl a purus blandit viverra. Ut leo. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Fusce a quam."    
+    },
+    {
+      "id": 2,
+      "name": "Camisa preta detalhe branco",
+      "image": "https://www.dhresource.com/0x0/f2/albu/g9/M01/FE/61/rBVaWFywOK6AH-B0AAEN8yGwc2M641.jpg",
+      "stock": 10,
+      "price": "29,90",
+      "payment": "Até 10x de R$3,00",
+      "category": [
+        "Camiseta",
+        "Manga Curta",
+        "Masculino"
+      ],
+      "colors": [
+        "1 Cor",
+        "Preto"
+      ],
+      "shortDesc": "Nulla facilisi. Curabitur at lacus ac velit ornare lobortis.",
+      "description": "Cras sagittis. Praesent nec nisl a purus blandit viverra. Ut leo. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Fusce a quam."    
+    },
+    {
+      "id": 3,
+      "name": "Camisa azul lua",
+      "image": "https://fantucci.com/wp-content/uploads/2018/03/0247_Moon_Front_Navy.jpg",
+      "stock": 10,
+      "price": "29,90",
+      "payment": "Até 10x de R$3,00",
+      "category": [
+        "Camiseta",
+        "Manga Curta",
+        "Masculino"
+      ],
+      "colors": [
+        "1 Cor",
+        "Azul"
+      ],
+      "shortDesc": "Nulla facilisi. Curabitur at lacus ac velit ornare lobortis.",
+      "description": "Cras sagittis. Praesent nec nisl a purus blandit viverra. Ut leo. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Fusce a quam."    
+    },
+    {
+      "id": 4,
+      "name": "Camisa azul lua",
+      "image": "https://fantucci.com/wp-content/uploads/2018/03/0247_Moon_Front_Navy.jpg",
+      "stock": 10,
+      "price": "29,90",
+      "payment": "Até 10x de R$3,00",
+      "category": [
+        "Camiseta",
+        "Manga Curta",
+        "Masculino"
+      ],
+      "colors": [
+        "1 Cor",
+        "Azul"
+      ],
+      "shortDesc": "Nulla facilisi. Curabitur at lacus ac velit ornare lobortis.",
+      "description": "Cras sagittis. Praesent nec nisl a purus blandit viverra. Ut leo. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Fusce a quam."    
+    },
+    {
+      "id": 5,
+      "name": "Camisa azul lua",
+      "image": "https://fantucci.com/wp-content/uploads/2018/03/0247_Moon_Front_Navy.jpg",
+      "stock": 10,
+      "price": "29,90",
+      "payment": "Até 10x de R$3,00",
+      "category": [
+        "Camiseta",
+        "Manga Curta",
+        "Masculino"
+      ],
+      "colors": [
+        "1 Cor",
+        "Azul"
+      ],
+      "shortDesc": "Nulla facilisi. Curabitur at lacus ac velit ornare lobortis.",
+      "description": "Cras sagittis. Praesent nec nisl a purus blandit viverra. Ut leo. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Fusce a quam."    
+    },
+    {
+      "id": 6,
+      "name": "Camisa azul lua",
+      "image": "https://fantucci.com/wp-content/uploads/2018/03/0247_Moon_Front_Navy.jpg",
+      "stock": 10,
+      "price": "29,90",
+      "payment": "Até 10x de R$3,00",
+      "category": [
+        "Camiseta",
+        "Manga Curta",
+        "Masculino"
+      ],
+      "colors": [
+        "1 Cor",
+        "Azul"
+      ],
+      "shortDesc": "Nulla facilisi. Curabitur at lacus ac velit ornare lobortis.",
+      "description": "Cras sagittis. Praesent nec nisl a purus blandit viverra. Ut leo. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Fusce a quam."    
+    }
+  ]
+}
